@@ -1,4 +1,4 @@
-# pandas-challenge-4
+# Schools Analysis Pandas
 
 ## Requirements
 
